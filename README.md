@@ -1,6 +1,6 @@
 # Experiments with Options Pricing and Hedging
 
-This repository is a comprehensive monorepo containing various options pricing projects I completed during my studies. The projects within this repository cover a wide range of topics within options pricing and hedging, utilizing different methodologies and programming languages to explore the intricacies of financial derivatives. Below is an overview of the projects included in this monorepo.
+This repository contains various options pricing projects I completed during my studies. The projects within this repository cover a wide range of topics within options pricing and hedging, utilizing different methodologies and programming languages to explore the intricacies of financial derivatives. Below is an overview of the projects included in this monorepo.
 
 ## Projects Overview
 
